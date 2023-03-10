@@ -1,0 +1,8 @@
+
+1.1  git branch Postman		создаю ветку Postman
+1.2  git branch Jmeter		создаю ветку Jmeter
+1.3  git branch CheckLists	создаю ветку CheckLists
+1.4  git branch BagReports	создаю ветку Bagreports
+1.5  git branch SQL		создаю ветку SQL
+1.6  git branch Charles		создаю ветку Charles
+1.7  git branch MobileTesting	создаю ветку MobileTesting

@@ -1,0 +1,15 @@
+Title
+System navigation "Back" button doesn't returns to the “SHOW PALM” screen
+
+Steps to reproduce:
+Tap system navigation "Back" button on the "REGISTRATION" screen
+
+Expected Results: 
+“SHOW PALM” screen is shown
+
+Actual Results: 
+“SHOW PALM” screen doesn’t shown, nothing happened
+
+Environment
+Android 13-OnePlus 8 Pro-OxygenOS
+app ver. 2.0.75

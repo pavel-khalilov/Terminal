@@ -6,3 +6,4 @@
 1.5  git branch SQL		создаю ветку SQL
 1.6  git branch Charles		создаю ветку Charles
 1.7  git branch MobileTesting	создаю ветку MobileTesting
+2    git push -u origin Postman Jmeter CheckLists BagReports SQL Charles MobileTesting	пушу ветки во внешнию репозиторий в главную ветку main

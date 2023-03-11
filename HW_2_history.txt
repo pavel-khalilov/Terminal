@@ -1,4 +1,4 @@
-
+Дисклеймер: номера пунктов соответствуют номерам в задании
 1.1  git branch Postman		создаю ветку Postman
 1.2  git branch Jmeter		создаю ветку Jmeter
 1.3  git branch CheckLists	создаю ветку CheckLists

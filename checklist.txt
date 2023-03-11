@@ -1,0 +1,9 @@
+Installing app
+Updating app
+Registration in app by differetn ways[D[D[D[D[D[D[D[3~[3~[[3~[3~[C[C[C[C[nt ways
+Autorization in app by different ways
+Editing data in profile
+Interrupt testing
+Reconnect testing
+Screen orientation testing
+UI testing

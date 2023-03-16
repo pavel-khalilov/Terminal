@@ -1,6 +1,5 @@
 https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat
 
-
 pwd 		посмотреть где я
 
 ls 		вывести список содержимого папки в которой находишься

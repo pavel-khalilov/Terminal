@@ -10,7 +10,7 @@
 3.1  touch bug_report.txt	создал файл bug_report.txt находясь в ветке BagReports
 3.2  vim bug_report.txt		добавил инфо в файл bug_report.txt
 4.1  git add bug_report.txt	добавил файл для последующего коммита
-4.2  git commit -m ""		отправил коммит на внешний репозиторий
+4.2  git commit -m "1"		отправил коммит на внешний репозиторий
 4.3  git push			запушил файл на внешний репозиторий в ветку BagReports
 5.1  git checkout main		перешел в ветку куда буду мержить ветку BagReports
 5.2  git merge BagReports	вмержил ветку BagReports в ветку main
@@ -22,4 +22,3 @@
 8.3  git push			пушнул файл на внешний репозиторий в ветку CheckLists
 10.1 git checkout main		перешел в main ветку
 10.2 git pull			синхронизировал внешний репозиторий и внутренний(из внешнего данные подтянулись в локальный)
-

@@ -6,7 +6,7 @@
 1.5  git branch SQL		создаю ветку SQL
 1.6  git branch Charles		создаю ветку Charles
 1.7  git branch MobileTesting	создаю ветку MobileTesting
-2    git push -u origin Postman Jmeter CheckLists BagReports SQL Charles MobileTesting	пушу ветки во внешнию репозиторий в главную ветку main
+2    git push -u origin Postman Jmeter CheckLists BagReports SQL Charles MobileTesting	пушу ветки во внешний репозиторий в главную ветку main
 3.1  touch bug_report.txt	создал файл bug_report.txt находясь в ветке BagReports
 3.2  vim bug_report.txt		добавил инфо в файл bug_report.txt
 4.1  git add bug_report.txt	добавил файл для последующего коммита
